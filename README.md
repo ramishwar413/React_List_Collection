@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# This is List Collection Project build using React,js.
+# Run by using npm run dev command
+# you can add any values after enter on input box that is mention in output image.
+# OUTPUT
+![list](https://github.com/user-attachments/assets/8900e7d5-13ef-4076-a5d8-0c6e0033f14d)
